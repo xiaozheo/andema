@@ -1,0 +1,48 @@
+{
+    "status":[
+        {
+            "id":"01",
+            "data_img":"",
+            "img":"../img/goods1.png",
+            "ab":{
+                "ab1":"background-color: #231F20",
+                "ab2":"background-color: #006174",
+                "ab3":"background-color: #A29FA9"
+                },
+            "data_aid":{
+                "ab1":"../img/goods1.png",
+                "ab2":"../img/goods2.webp",
+                "ab3":"../img/goods3.png"
+            },
+            "p":"男士UA Vanish Calibrate Polo衫",
+            "price":"650.00"
+        },
+        {
+            "id":"02",
+            "data_img":"",
+            "img":"../img/goods4.webp",
+            "ab":{"ab1":"background-color: #243D43","ab2":"background-color: #231F20"},
+            "data_aid":{"ab1":"../img/goods4.webp","ab2":"../img/goods5.jpg"},
+            "p":"男士UA Vanish Polo衫",
+            "price":"599.00"
+        },
+        {
+            "id":"03",
+            "data_img":"",
+            "img":"../img/goods6.png",
+            "ab":{"ab1":"background-color: #243D43"},
+            "data_aid":{"ab1":"../img/goods6.png"},
+            "p":"男士UA Vanish Sprocket Polo衫",
+            "price":"649.00"
+        },
+        {
+            "id":"04",
+            "data_img":"",
+            "img":"../img/goods7.webp",
+            "ab":{"ab1":"background-color: #243D43","ab2":"background-color: #1D2231","ab3":"background-color: #383CA5"},
+            "data_aid":{"ab1":"../img/goods7.webp","ab2":"../img/goods8.webp","ab3":"../img/goods9.png"},
+            "p":"男士UA Vanish Gradient Polo衫",
+            "price":"699.00"
+        }
+    ]
+}

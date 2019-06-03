@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#tab {
+    table-layout: fixed;
+    width: 990px;
+    margin: 30px auto 0;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+
+#tab thead tr {
+    height: 43px;
+    width: 990px;
+    background: #EEEEEE;
+}
+
+#tab .tbody tr {
+    height: 120px;
+}
+
+.money {
+    width: 75%;
+}
+
+.tbody tr {
+    border-top: 2px solid #ccc;
+}
+
+.count td:nth-child(6) input {
+    width: 50%;
+}
+
+.count td:nth-child(6) button {
+    width: 10%;
+}
+
+#footer {
+    height: 43px;
+    text-align: right;
+    background: #EEEEEE;
+    width: 899.6px;
+    margin: 0 auto;
+    padding-right: 90px;
+    font-size: 16px;
+}
+
+#footer {}

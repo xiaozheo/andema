@@ -1,0 +1,71 @@
+.regest_box{
+    /* min-height: 500px; */
+    margin-top: 70px;
+    margin-bottom: 25px;
+    color: rgb(29, 29, 29);
+}
+#regest,#login{
+    margin: 0 auto;
+    width: 400px;
+    min-height: 300px;
+}
+#regest>h4,#login>h4{
+    font-size: 26px;
+    color: rgb(29, 29, 29);
+    letter-spacing: 0px;
+    margin-bottom: 34px;
+    font-weight: normal;
+}
+#regest div p,#login div p{
+    font-size: 16px;
+    color: rgb(29, 29, 29);
+    letter-spacing: 0px;
+    margin-bottom: 10px;
+}
+#regest div input,#login div input{
+    width: 100%;
+    height: 48px;
+    color: rgb(29, 29, 29);
+    font-size: 14px;
+    background-color: rgb(255, 255, 255);
+    padding: 12px;
+    border-radius: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(199, 199, 199);
+    border-image: initial;
+    margin-bottom: 15px;
+}
+#regest div,#login div{
+   
+    overflow: hidden;
+}
+
+#regest .checkbox input,#login .checkbox input{
+    float: left;
+    display: block;
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+#regest .checkbox span,#login .checkbox span{
+    display: block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+#subbtn{
+    max-width: 400px;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(234, 33, 46);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    line-height: 60px;
+    display: block;
+    border: none;
+}
+#subbtn:hover{
+    background-color: rgb(29, 29, 29);
+}

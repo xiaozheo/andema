@@ -1,0 +1,115 @@
+{
+    "status":[
+        {
+            "id":"01",
+            "ul1":{
+                "li1":"男子新品推荐 ",
+                "li2":"女子新品推荐 ",
+                "li3":"少年新品推荐 ",
+                "li4":"全部新品推荐 "
+            },
+            "img1":"http://localhost/andema-preject/img/folat1.jpg",
+            "img2":"http://localhost/andema-preject/img/folat2.jpg",
+            "img3":"http://localhost/andema-preject/img/folat3.jpg",
+            "img4":"",
+            "p1":"PROJECT ROCK系列",
+            "p2":"男子WOVEN系列",
+            "p3":" EXCLUSIVES系列",
+            "p4":""
+            
+        },
+        {
+            "id":"02",
+            "ul1":{
+                "li1":"男子热卖推荐 ",
+                "li2":"女子热卖推荐 ",
+                "li3":"少年热卖推荐 ",
+                "li4":"全部热卖推荐 "
+            },
+            "img1":"http://localhost/andema-preject/img/folat4.jpg",
+            "img2":"http://localhost/andema-preject/img/folat5.png",
+            "img3":"http://localhost/andema-preject/img/folat6.png",
+            "img4":"http://localhost/andema-preject/img/folat7.png",
+            "p1":"男士UA RUSH短袖上衣",
+            "p2":"女士UA RUSH短袖上衣",
+            "p3":" EXCLUSIVES系列",
+            "p4":"男士UA HOVR Velociti "
+            
+        },
+        
+    
+        {
+            "id":"03",
+            "ul1":{
+                "li1":"推荐系列 ",
+                "li2":"新品推荐 ",
+                "li3":"女子HOVR系列 ",
+                "li4":"女子EXCLUSIVES限定系列 ",
+                "li5":"女子Misty系列 "
+            },
+            "img1":"http://localhost/andema-preject/img/folat8.jpg",
+            "img2":"http://localhost/andema-preject/img/folat9.jpg",
+            "img3":"http://localhost/andema-preject/img/folat10.jpg",
+            "img4":"http://localhost/andema-preject/img/folat11.jpg",
+            "p1":"男士UA RUSH短袖上衣",
+            "p2":"女士UA RUSH短袖上衣",
+            "p3":" EXCLUSIVES系列",
+            "p4":"男士UA HOVR Velociti "
+            
+        },
+        {
+            "id":"04",
+            "ul1":{
+                "li1":"男子热卖推荐 ",
+                "li2":"女子热卖推荐 ",
+                "li3":"少年热卖推荐 ",
+                "li4":"全部热卖推荐 "
+            },
+            "img1":"http://localhost/andema-preject/img/folat12.jpg",
+            "img2":"http://localhost/andema-preject/img/folat13.jpg",
+            "img3":"http://localhost/andema-preject/img/folat14.jpg",
+            "img4":"http://localhost/andema-preject/img/folat12.jpg",
+            "p1":"男士UA RUSH短袖上衣",
+            "p2":"女士UA RUSH短袖上衣",
+            "p3":" EXCLUSIVES系列",
+            "p4":"男士UA HOVR Velociti "
+            
+        },
+        {
+            "id":"05",
+            "ul1":{
+                "li1":"男子热卖推荐 ",
+                "li2":"女子热卖推荐 ",
+                "li3":"少年热卖推荐 ",
+                "li4":"全部热卖推荐 "
+            },
+            "img1":"http://localhost/andema-preject/img/folat4.jpg",
+            "img2":"http://localhost/andema-preject/img/folat5.png",
+            "img3":"http://localhost/andema-preject/img/folat6.png",
+            "img4":"http://localhost/andema-preject/img/folat7.png",
+            "p1":"男士UA RUSH短袖上衣",
+            "p2":"女士UA RUSH短袖上衣",
+            "p3":" EXCLUSIVES系列",
+            "p4":"男士UA HOVR Velociti "
+            
+        },
+        {
+            "id":"06",
+            "ul1":{
+                "li1":"",
+                "li2":"",
+                "li3":"",
+                "li4":""
+            },
+            "img1":"http://localhost/andema-preject/img/folat15.jpg",
+            "img2":"http://localhost/andema-preject/img/folat16.jpg",
+            "img3":"http://localhost/andema-preject/img/folat17.jpg",
+            "img4":"",
+            "p1":"",
+            "p2":"",
+            "p3":"",
+            "p4":""
+            
+        }
+    ]
+}

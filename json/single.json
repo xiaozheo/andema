@@ -1,0 +1,36 @@
+{
+    "status":[
+        {
+            "id":"1",
+            "img":"./../img/show1.png",
+"data_img":{"img1":"./../img/show1.png","img2":"./../img/show2.png","img3":"./../img/show3.png","img4":"./../img/show4.png","img5":"./../img/show5.png","img6":"./../img/show6.png"},
+"listimg":{"img1":"./../img/list1.png","img2":"./../img/list2.png","img3":"./../img/list3.png","img4":"./../img/list4.png","img5":"./../img/list5.png","img6":"./../img/list6.png"},
+            "type":"男士UA Vanish Calibrate Polo衫",
+            "price":"649.00"
+        },
+        {
+            "id":"2",
+            "img":"./../img/show7.jpg",
+"data_img":{"img1":"./../img/show7.jpg","img2":"./../img/show8.jpg","img3":"./../img/show9.jpg","img4":"./../img/show10.jpg","img5":"./../img/show11.jpg","img6":"./../img/show12.jpg"},
+"listimg":{"img1":"./../img/list7.jpg","img2":"./../img/list8.jpg","img3":"./../img/list9.jpg","img4":"./../img/list10.jpg","img5":"./../img/list11.jpg","img6":"./../img/list12.jpg"},
+            "type":"男士UA Vanish Polo衫",
+            "price":"599.00"
+        },
+        {
+            "id":"3",
+            "img":"./../img/show13.png",
+"data_img":{"img1":"./../img/show13.png","img2":"./../img/show14.png","img3":"./../img/show15.png","img4":"./../img/show16.png","img5":"./../img/show17.png","img6":"./../img/show18.png"},
+"listimg":{"img1":"./../img/list13.png","img2":"./../img/list14.png","img3":"./../img/list15.png","img4":"./../img/list16.png","img5":"./../img/list17.png","img6":"./../img/list18.png"},
+            "type":"男士UA Vanish Sprocket Polo衫",
+            "price":"649.00"
+        },
+        {
+            "id":"4",
+            "img":"./../img/show19.png",
+"data_img":{"img1":"./../img/show19.png","img2":"./../img/show20.png","img3":"./../img/show21.png","img4":"./../img/show22.png","img5":"./../img/show23.png","img6":"./../img/show24.png"},
+"listimg":{"img1":"./../img/list19.png","img2":"./../img/list20.png","img3":"./../img/list21.png","img4":"./../img/list22.png","img5":"./../img/list23.png","img6":"./../img/list24.png"},
+            "type":"男士UA Vanish Gradient Polo衫",
+            "price":"699.00"
+        }
+    ]
+}
